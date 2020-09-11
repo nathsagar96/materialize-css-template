@@ -1,0 +1,19 @@
+body,
+.sidenav,
+.card .card-content,
+.card .card-reveal {
+  background-color: #854e43;
+}
+
+.nav-wrapper,
+.footer-one {
+  background-color: #6f4037;
+}
+
+.parallax-container {
+  min-height: 280px;
+  height: auto;
+}
+.footer-two {
+  background: #462822;
+}
